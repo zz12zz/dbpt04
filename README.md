@@ -3,6 +3,20 @@
  
  기본적인 따릉이 대여소 정보를 출력하는 기능과, 따릉이의 일일권 대여 기록을 통해 자전거를 타기 좋은곳을 추천하는 기능이 있습니다.
 
-## 데이터 출처
+## 프로젝트 목적
 
+## 이용 방법
+
+## 데이터 출처
+ 모든 데이터들의 출처는 서울 열린데이터 광장 사이트입니다.
+ 
+ 서울특별시 공공자전거 대여소 정보
+ > http://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do
+ 
+ 서울특별시 공공자전거 대여소별 이용정보(월별)
+ > http://data.seoul.go.kr/dataList/OA-15249/F/1/datasetView.do
+ 
+ 서울특별시 공공자전거 이용정보(시간대별)
+ > http://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do
+ 
 ## 구축 환경 정보
